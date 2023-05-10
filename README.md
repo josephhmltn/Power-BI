@@ -1,1 +1,1 @@
-# Various personal projects completed while learning and improving Power-BI knowledge
+## Various personal projects completed while learning and improving Power-BI knowledge
